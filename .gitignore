@@ -1,0 +1,17 @@
+# Ignore Visual Studio files
+*.suo
+*.user
+*.vs/
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows Thumbs.db files
+Thumbs.db
+
+# Ignore logs or temporary files
+*.log
+*.tmp
